@@ -1,4 +1,8 @@
 *.class
+/.gradle
+/.idea
+*.iml
+/build
 
 # Package Files #
 *.jar
